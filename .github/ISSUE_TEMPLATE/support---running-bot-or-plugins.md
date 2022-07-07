@@ -2,7 +2,7 @@
 name: Support - Running bot or plugins
 about: Requesting help with running errbot
 title: ''
-labels: 'type: support/question'
+labels: ''
 assignees: ''
 
 ---
